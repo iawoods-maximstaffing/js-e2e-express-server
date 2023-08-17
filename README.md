@@ -1,3 +1,5 @@
+[![Build Status](https://maximhealthcare.visualstudio.com/Maxim/_apis/build/status%2Fiawoods-maximstaffing.js-e2e-express-server?branchName=main)](https://maximhealthcare.visualstudio.com/Maxim/_build/latest?definitionId=105&branchName=main)
+
 ---
 page_type: sample
 languages:
@@ -9,7 +11,6 @@ products:
 - azure
 - vs-code
 ---
-[![Build Status](https://maximhealthcare.visualstudio.com/Maxim/_apis/build/status%2Fiawoods-maximstaffing.js-e2e-express-server?branchName=main)](https://maximhealthcare.visualstudio.com/Maxim/_build/latest?definitionId=105&branchName=main)
 
 # JavaScript end-to-end client file upload to Azure Storage Blobs
 
